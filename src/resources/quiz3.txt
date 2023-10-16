@@ -1,0 +1,69 @@
+Question 1: What is the name of the world's largest ocean by area?
+Indian Ocean
+Arctic Ocean
+Atlantic Ocean
+Pacific Ocean
+1
+
+Question 2: What is the name of the Earth's highest mountain?
+Kanchenjunga
+Lhotse
+Mount Everest
+K2
+2
+
+Question 3: What is the name of the world's most populous country?
+United States
+China
+Indonesia
+India
+3
+
+Question 4: What is the name of the world's longest river?
+Mississippi River
+Amazon River
+Nile River
+Yangtze River
+1
+
+Question 5: What is the name of the world's largest desert by area?
+Arctic
+Sahara Desert
+Arabian Desert
+Antarctica
+3
+
+Question 6: What is the name of the world's largest planet by diameter?
+Saturn
+Jupiter
+Uranus
+Neptune
+0
+
+Question 7: What is the name of the world's largest satellite by diameter?
+Titan
+Callisto
+Io
+Ganymede
+3
+
+Question 8: What is the name of the world's largest artificial lake by volume?
+Kariba Reservoir
+Lake Nasser
+Lake Mead
+Bratsk Reservoir
+0
+
+Question 9: What is the name of the world's largest waterfall by average flow rate?
+Victoria Falls
+Niagara Falls
+Angel Falls
+Iguazu Falls
+2
+
+Question 10: What is the name of the world's largest city by population?
+Shanghai
+Delhi
+São Paulo
+Tokyo
+0

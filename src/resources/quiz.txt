@@ -1,0 +1,69 @@
+Question 1:  Which is an official language for Android Development ?
+Java
+Kotlin
+C++
+Javascript
+1
+
+Question 2:  Which feature of java 7 allows to not explicitly close IO resource?
+try catch finally
+IOException
+AutoCloseable
+Streams
+1
+
+Question 3: SessionFactory is a thread-safe object.
+true
+false
+don't know
+false
+0
+
+Question 4: Which is the new method introduced in java 8 to iterate over a collection?
+for (String i : StringList)
+foreach (String i : StringList)
+StringList.forEach()
+List.for()
+2
+
+Question 5:  What is the substitute of Rhino javascript engine in Java 8?
+Nashorn
+V8
+Inscript
+Narcissus
+0
+
+Question 6: How to read entire file in one line using java 8?
+Files.readAllLines()
+Files.read()
+Files.readFile()
+Files.lines()
+0
+
+Question 7: Which of the following is not a Java features?
+Dynamic
+Architecture Neutral
+Use of pointers
+Object-oriented
+2
+
+Question 8:  Which of the following is not a core interface of Hibernate?
+Configuration
+Criteria
+SessionManagement
+Session
+2
+
+Question 9: What is the return type of the hashCode() method in the Object class?
+Object
+int
+long
+void
+1
+
+Question 10: Which of the following is not a state of object in Hibernate?
+Attached()
+Detached()
+Persistent()
+Transient()
+0

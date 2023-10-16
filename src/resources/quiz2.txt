@@ -1,0 +1,76 @@
+Question 1: What is the name of the most popular social media platform in the world?
+Instagram
+TikTok
+Facebook
+Twitter
+2
+
+Question 2: What is the name of the largest river in the world by volume?
+Congo River
+Amazon River
+Nile River
+Yangtze River
+1
+
+Question 3: What is the name of the largest desert in the world by area?
+Antarctica
+Sahara Desert
+Arctic
+Arabian Desert
+1
+
+Question 4: What is the name of the most populous country in the world?
+China
+India
+United States
+Indonesia
+0
+
+Question 5: What is the name of the fastest animal on land?
+Cheetah
+Falcon
+Greyhound
+Horse
+0
+
+Question 6: What is the name of the deepest ocean in the world?
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Arctic Ocean
+2
+
+Question 7: What is the name of the largest star in the universe?
+Betelgeuse
+VY Canis Majoris
+UY Scuti
+R136a1
+2
+
+Question 8: What is the name of the first woman to win the Nobel Prize?
+Marie Curie
+Rosalind Franklin
+Ada Lovelace
+Hypatia
+0
+
+Question 9: What is the name of the most popular video game in the world?
+Grand Theft Auto V
+Fortnite
+Call of Duty: Modern Warfare
+Minecraft
+3
+
+Question 10: What is the name of the first country to legalize same-sex marriage?
+Belgium
+Canada
+Spain
+Netherlands
+3
+
+Question 11: What is the name of the most popular tourist destination in the world?
+Paris, France
+London, England
+Rome, Italy
+New York City, USA
+0
